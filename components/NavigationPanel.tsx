@@ -8,7 +8,7 @@ export default function NavigationPanel() {
       <Text style={styles.label}>Navigation Computer</Text>
       
       <Image 
-        source={require('../assets/images/icon.png')}
+        source={require('@/assets/images/react-green.png')}
         style={styles.icon}
       />
       
